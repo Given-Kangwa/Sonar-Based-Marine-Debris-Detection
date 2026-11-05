@@ -1,0 +1,27 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Dataset archive
+*.tar.xz
